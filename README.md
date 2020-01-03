@@ -10,4 +10,4 @@ This is a simple react app from scratch - babel setup, webpack config, webpack d
 • Use command npm install to download all necessary packages from npm.
 • Use npm run build to start the project.
 • Your app will run at port 3000.
-Enjoy!!!
+• Enjoy!!!
